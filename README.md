@@ -42,6 +42,8 @@ Note that if you have unadded/unindexed changes in your files, git pull will ove
 By default, GitHub Desktop tracks all files within your local repository. Sometimes this is inconvenient, such as when working with large CSV files that don't need to be tracked or on GitHub. In this case you can use the gitignore feature to instruct git not to track these files.
 
 To do this, go to GitHub Desktop, and click Repository > Repository Settings on the toolbar. Doing so opens a small window that allows you to specify which files or types of files to ignore. For example, if one wants to ignore all CSVs, then add the line `*.csv`. This will ignore all files with the extension `.csv`.
+To do this, go to GitHub Desktop, and click Repository > Repository Settings on the toolbar. Doing so opens a small window
+ that allows you to specify which files or types of files to ignore. For example, if one wants to ignore all CSVs, then add the line `*.csv`. This will ignore all files with the extension `.csv`.
 
 
 
