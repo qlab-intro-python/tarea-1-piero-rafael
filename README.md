@@ -5,7 +5,9 @@
 
 - Esta es una plantilla para las tareas del curso Fundamentos de Programación en Python para Macroeconomía y Finanzas. Puedes usar este repo para practicar cómo clonar un repo y hacer un pull request.
 
-- La calificación de la tarea será únicamente válida al hacer el `push` de su código de su repo en GitHub Classroom. Dado que tienes un número ilimitado de intentos, por favor, realiza una prueba de envío con anticipación a la fecha límite de la tarea.
+- La calificación de la tarea será únicamente válida al hacer el `push` de su código de su repo en GitHub 
+
+Classroom. Dado que tienes un número ilimitado de intentos, por favor, realiza una prueba de envío con anticipación a la fecha límite de la tarea.
 
 ## Workflow de la tarea
 
